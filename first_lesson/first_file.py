@@ -50,4 +50,4 @@ for value in list_of_values:
         print(value, 'це капелюх')
     else:
         print('івф')
-        ddssssssssddgit
+        ddssssssssddgitsss
